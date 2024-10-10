@@ -1,0 +1,16 @@
+body {
+  background-color: black;
+  font-family: fantasy;
+}
+
+.timer-container {
+  background-color: blueviolet;
+  margin-top: 20%;
+}
+
+h1 {
+  color: burlywood;
+  font-size: 120px;
+  text-align: center;
+  margin: 0;
+}

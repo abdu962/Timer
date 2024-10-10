@@ -1,0 +1,15 @@
+.nnn{
+background-image: repeating-radial-gradient(circle, red 10%, green 10%, green 20%, red 20%, red 30%);
+width: 100%;
+height: 700px;
+animation-name: cringe;
+animation-duration: 1s;
+animation-iteration-count: infinite;
+}
+@keyframes cringe {
+from{  
+}
+to{
+background-image: repeating-radial-gradient(circle, green 10%, red 10%, red 20%, green 20%, green 30%);
+}
+}
